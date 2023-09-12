@@ -1,13 +1,13 @@
-<a href="https://javamagician.com/basicos/sintaxis-java/">
-  <h1 align="center">Introducción a la sintaxis básica en Java</h1>
+<a href="https://javamagician.com/basicos/java-primitivos/">
+  <h1 align="center">Introducción a los Tipos Primitivos</h1>
 </a>
 <p align="center">
-  <a href="https://javamagician.com/basicos/sintaxis-java/">
-    <img src="https://javamagician.com/content/images/size/w960/2023/09/1stpost_600_750.png" height="360"/>
+  <a href="https://javamagician.com/basicos/java-primitivos/">
+    <img src="https://javamagician.com/content/images/2023/09/java-primitivos_600x750-2.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/basicos/sintaxis-java/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/basicos/java-primitivos/">Lee nuestra última publicación</a>
 </h3>
 
 
