@@ -1,6 +1,3 @@
-<h3 align="center">Visita nuestra última publicación:</h3>
-
-
 <a href="https://javamagician.com/basicos/sintaxis-java/">
   <h1 align="center">Introducción a la sintaxis básica en Java</h1>
 </a>
@@ -9,9 +6,9 @@
     <img src="https://javamagician.com/content/images/size/w960/2023/09/1stpost_600_750.png" height="360"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://javamagician.com/basicos/sintaxis-java/">Leer publicación</a>
-</p>
+<h3 align="center">
+  <a href="https://javamagician.com/basicos/sintaxis-java/">Lee nuestra última publicación</a>
+</h3>
 
 
 <h3 align="center">Síguenos en nuestras redes sociales para enterarte de todas las publicaciones:</h3>
