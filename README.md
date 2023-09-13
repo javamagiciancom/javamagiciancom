@@ -23,3 +23,8 @@
     <img src="https://github.com/javamagiciancom/javamagiciancom/blob/main/instagram.svg" height="32" /> @javamagician
   </a>
 </p>
+<p align="center">
+  <a href="https://reddit.com/r/javamagician">
+    <img src="https://github.com/javamagiciancom/javamagiciancom/blob/main/reddit.svg" height="32" /> /r/javamagician
+  </a>
+</p>
