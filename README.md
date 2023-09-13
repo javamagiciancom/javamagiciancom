@@ -1,13 +1,13 @@
-<a href="https://javamagician.com/basicos/java-primitivos/">
-  <h1 align="center">Introducción a los Tipos Primitivos</h1>
+<a href="https://javamagician.com/basicos/java-metodo-main/">
+  <h1 align="center">Explicación del Método main() en Java</h1>
 </a>
 <p align="center">
-  <a href="https://javamagician.com/basicos/java-primitivos/">
-    <img src="https://javamagician.com/content/images/2023/09/java-primitivos_600x750-2.png" height="360"/>
+  <a href="https://javamagician.com/basicos/java-metodo-main/">
+    <img src="https://javamagician.com/content/images/2023/09/java-metodo-main_600x750.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/basicos/java-primitivos/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/basicos/java-metodo-main/">Lee nuestra última publicación</a>
 </h3>
 
 
