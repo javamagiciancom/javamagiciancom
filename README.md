@@ -1,13 +1,13 @@
-<a href="https://javamagician.com/basicos/java-estructuras-control/">
-  <h1 align="center">Estructuras de control en Java</h1>
+<a href="https://javamagician.com/basicos/java-bucles/">
+  <h1 align="center">Guía de Bucles en Java</h1>
 </a>
 <p align="center">
-  <a href="https://javamagician.com/basicos/java-estructuras-control/">
-    <img src="https://javamagician.com/content/images/2023/09/java-estructuras-control_600x750.png" height="360"/>
+  <a href="https://javamagician.com/basicos/java-bucles/">
+    <img src="https://javamagician.com/content/images/2023/09/java-bucles_600x750.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/basicos/java-estructuras-control/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/basicos/java-bucles/">Lee nuestra última publicación</a>
 </h3>
 
 
