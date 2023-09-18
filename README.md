@@ -1,13 +1,13 @@
-<a href="https://javamagician.com/basicos/java-bucles/">
-  <h1 align="center">Guía de Bucles en Java</h1>
+<a href="https://javamagician.com/basicos/java-paquetes/">
+  <h1 align="center">Guía de Paquetes en Java</h1>
 </a>
 <p align="center">
-  <a href="https://javamagician.com/basicos/java-bucles/">
-    <img src="https://javamagician.com/content/images/2023/09/java-bucles_600x750.png" height="360"/>
+  <a href="https://javamagician.com/basicos/java-paquetes/">
+    <img src="https://javamagician.com/content/images/2023/09/java-paquetes_600x750-3.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/basicos/java-bucles/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/basicos/java-paquetes/">Lee nuestra última publicación</a>
 </h3>
 
 
