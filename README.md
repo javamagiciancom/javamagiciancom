@@ -1,13 +1,13 @@
-<a href="https://javamagician.com/java-clases-y-objetos/">
-  <h1 align="center">Clases y Objetos en Java</h1>
+<a href="https://javamagician.com/java-clases-concretas/">
+  <h1 align="center">Clases Concretas en Java</h1>
 </a>
 <p align="center">
-  <a href="https://javamagician.com/java-clases-y-objetos/">
-    <img src="https://javamagician.com/content/images/2023/09/java-clases-objetos_600x750.png" height="360"/>
+  <a href="https://javamagician.com/java-clases-concretas/">
+    <img src="https://javamagician.com/content/images/2023/09/java-clases-concretas_600x750-1.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/java-clases-y-objetos/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/java-clases-concretas/">Lee nuestra última publicación</a>
 </h3>
 
 
