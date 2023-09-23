@@ -1,13 +1,13 @@
-<a href="https://javamagician.com/java-clases-concretas/">
-  <h1 align="center">Clases Concretas en Java</h1>
+<a href="https://javamagician.com/java-modificadores-de-acceso/">
+  <h1 align="center">Modificadores de Acceso en Java</h1>
 </a>
 <p align="center">
-  <a href="https://javamagician.com/java-clases-concretas/">
-    <img src="https://javamagician.com/content/images/2023/09/java-clases-concretas_600x750-1.png" height="360"/>
+  <a href="https://javamagician.com/java-modificadores-de-acceso/">
+    <img src="https://javamagician.com/content/images/2023/09/java-modificadores-de-acceso_600x750.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/java-clases-concretas/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/java-modificadores-de-acceso/">Lee nuestra última publicación</a>
 </h3>
 
 
