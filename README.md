@@ -1,13 +1,12 @@
-<a href="https://javamagician.com/java-clases-abstractas/">
-  <h1 align="center">Clases Abstractas en Java</h1>
-</a>
+<h1 align="center"><a href="https://javamagician.com/java-polimorfismo/">Polimorfismo en Java</a></h1>
+
 <p align="center">
-  <a href="https://javamagician.com/java-clases-abstractas/">
-    <img src="https://javamagician.com/content/images/2023/09/java-clases-abstractas_600x750.png" height="360"/>
+  <a href="https://javamagician.com/java-polimorfismo/">
+    <img src="https://javamagician.com/content/images/2023/10/java-polimorfismo_600x750.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/java-clases-abstractas/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/java-polimorfismo/">Lee nuestra última publicación</a>
 </h3>
 
 <h3 align="center">Síguenos en nuestras redes sociales para enterarte de <a href="https://javamagician.com/">todas las publicaciones</a>:</h3>
