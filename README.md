@@ -1,12 +1,12 @@
-<h1 align="center"><a href="https://javamagician.com/java-metodos-static-default/">Métodos static y default en Interfaces en Java</a></h1>
+<h1 align="center"><a href="https://javamagician.com/java-interfaces/">Interfaces en Java</a></h1>
 
 <p align="center">
-  <a href="https://javamagician.com/java-metodos-static-default/">
-    <img src="https://javamagician.com/content/images/2023/10/java-metodos-static-default_600x750.png" height="360"/>
+  <a href="https://javamagician.com/java-interfaces/">
+    <img src="https://javamagician.com/content/images/2023/10/java-interfaces_600x750.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/java-metodos-static-default/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/java-interfaces/">Lee nuestra última publicación</a>
 </h3>
 
 <h3 align="center">Síguenos en nuestras redes sociales para enterarte de <a href="https://javamagician.com/">todas las publicaciones</a>:</h3>
