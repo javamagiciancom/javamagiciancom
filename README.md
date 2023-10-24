@@ -1,12 +1,12 @@
-<h1 align="center"><a href="https://javamagician.com/java-herencia/">Herencia en Java</a></h1>
+<h1 align="center"><a href="https://javamagician.com/java-palabra-clave-this/">La Palabra Clave this en Java</a></h1>
 
 <p align="center">
-  <a href="https://javamagician.com/java-herencia/">
-    <img src="https://javamagician.com/content/images/2023/10/java-herencia_600x750.png" height="360"/>
+  <a href="https://javamagician.com/java-palabra-clave-this/">
+    <img src="https://javamagician.com/content/images/2023/10/java-palabra-clave-this_600x750.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/java-herencia/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/java-palabra-clave-this/">Lee nuestra última publicación</a>
 </h3>
 
 <h3 align="center">Síguenos en nuestras redes sociales para enterarte de <a href="https://javamagician.com/">todas las publicaciones</a>:</h3>
