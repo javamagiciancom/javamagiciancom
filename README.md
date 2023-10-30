@@ -1,12 +1,12 @@
-<h1 align="center"><a href="https://javamagician.com/java-palabra-clave-super/">La Palabra Clave super en Java</a></h1>
+<h1 align="center"><a href="https://javamagician.com/java-sobrecarga-sobrescritura-metodos/">Sobrecarga y Sobrescritura de Métodos en Java</a></h1>
 
 <p align="center">
-  <a href="https://javamagician.com/java-palabra-clave-super/">
-    <img src="https://javamagician.com/content/images/2023/10/java-palabra-clave-super_600x750.png" height="360"/>
+  <a href="https://javamagician.com/java-sobrecarga-sobrescritura-metodos/">
+    <img src="https://javamagician.com/content/images/2023/10/java-sobrecarga-sobrescritura-metodos_600x750.png" height="360"/>
   </a>
 </p>
 <h3 align="center">
-  <a href="https://javamagician.com/java-palabra-clave-super/">Lee nuestra última publicación</a>
+  <a href="https://javamagician.com/java-sobrecarga-sobrescritura-metodos/">Lee nuestra última publicación</a>
 </h3>
 
 <h3 align="center">Síguenos en nuestras redes sociales para enterarte de <a href="https://javamagician.com/">todas las publicaciones</a>:</h3>
